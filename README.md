@@ -28,3 +28,17 @@
 <div align="center">
   <img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m studying a Software Engineering course and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech articles and do leekcode.
+
+- :mailbox:How to reach me: [![VKontakte badge](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/arturyas)
+
