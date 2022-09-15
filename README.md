@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="100"/>
 </div>
 
-<div style="text-align:center; id="badges">
+<div align="center" id="badges">
   <a href="https://ukhta.hh.ru/resume/0aa65e24ff09c11c290039ed1f48354237776c">
   <img src="https://img.shields.io/badge/-HeadHunter-red?&style=for-the-badge&logo=HH" alt="HeadHunter Badge"/>
   </a>
@@ -12,4 +12,15 @@
   <a href="https://vk.com/arturyas">
   <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
    </a>
+  
+</div>
+<div align="center" id = "view_count">
+<img src="https://komarev.com/ghpvc/?username=ArsenKakasyan&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center" id = "hello">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
