@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m studying a Software Engineering course and contributing to frontend and backend for building web applications.
 
