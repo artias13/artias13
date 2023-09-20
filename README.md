@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m studying Bachelors program in CS, graduated in 2023.
+- :telescope: I’m studying Bachelor's program in CS, graduating in 2023.
 
 - :seedling: Participator of SberStudent 2023 accelerator program.
 
