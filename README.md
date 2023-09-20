@@ -2,22 +2,6 @@
   <h1>Welcome</h1>
 </div>
 
-<div align="center" id="badges">
-  <a href="https://ukhta.hh.ru/resume/0aa65e24ff09c11c290039ed1f48354237776c">
-  <img src="https://img.shields.io/badge/-HeadHunter-red?&style=for-the-badge&logo=HH" alt="HeadHunter Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCPID8_zgEIlsvyIQlR8LVPw">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://vk.com/arturyas">
-  <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
-   </a>
-  
-</div>
-<div align="center" id = "view_count">
-<img src="https://komarev.com/ghpvc/?username=ArsenKakasyan&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -42,6 +26,23 @@ I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>;
-  
+</div>
+
+---
+
+<div align="center" id="badges">
+  <a href="https://ukhta.hh.ru/resume/0aa65e24ff09c11c290039ed1f48354237776c">
+  <img src="https://img.shields.io/badge/-HeadHunter-red?&style=for-the-badge&logo=HH" alt="HeadHunter Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCPID8_zgEIlsvyIQlR8LVPw">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://vk.com/arturyas">
+  <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
+   </a>
+</div>
+
+<div align="center" id = "view_count">
+<img src="https://komarev.com/ghpvc/?username=ArsenKakasyan&style=flat-square&color=blue" alt=""/>
 </div>
 
