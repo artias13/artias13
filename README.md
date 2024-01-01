@@ -9,9 +9,9 @@ I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m studying Bachelor's program in CS, graduating in 2024.
 
-- :seedling: Participator of SberStudent 2023 accelerator program.
+- :seedling: Participator of SberStudent 2023 accelerator, Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events
 
-- :zap: In my free time, I read tech articles and do leekcode.
+- :zap: In my free time, I read tech articles and write code @academai
 
 ---
 
