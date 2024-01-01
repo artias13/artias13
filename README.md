@@ -7,9 +7,9 @@
 ### :man_technologist: About Me :
 I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m studying Bachelor's program in CS, graduating in 2024.
+- :telescope: I’m studying Bachelor's program in CS, graduating in 2024. Writing code in Python and TypeScript, interested in AI and cybersecurity. Fluent in both Russian and English, learning Chinese.
 
-- :seedling: Participator of SberStudent 2023 accelerator, Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events
+- :seedling: Participator of SberStudent 2023 accelerator, Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events.
 
 - :zap: In my free time, I read tech articles and write code @academai
 
