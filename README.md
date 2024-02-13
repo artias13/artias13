@@ -15,8 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>;
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ---
 
@@ -33,3 +32,5 @@
 <img src="https://komarev.com/ghpvc/?username=ArsenKakasyan&style=flat-square&color=blue" alt=""/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
