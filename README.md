@@ -3,7 +3,7 @@
 
 - :seedling: SberStudent 2023 accelerator, Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events.
 
-- :zap: In my free time, I read tech articles and write code @academai
+- :zap: In my free time, I read tech articles and write code @academai.
 
 ---
 
