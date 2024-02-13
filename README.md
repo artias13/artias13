@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <h1>Welcome</h1>
-</div>
-
----
-
 ### :man_technologist: About Me :
 I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
