@@ -1,6 +1,4 @@
-### :man_technologist: About Me :
-I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 - :telescope: 2024 grad. Interested in infosec.
 
 - :seedling: SberStudent 2023 accelerator, Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events.
