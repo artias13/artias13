@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 
-- :telescope: 2024 cs grad, indulge in infosec and <a href='https://academai.ru'>generative AI</a>.  
+- :telescope: 2024 cs grad, indulge in infosec and run a <a href='https://academai.ru'>project</a>.  
 
 - :seedling: SberStudent 2023 accelerator finalist, Top-20 Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events.
 
-- :zap: open to new.
+- :zap: open to new connections.
 
 ---
 
