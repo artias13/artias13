@@ -2,7 +2,7 @@
 
 - :telescope: 2024 cs grad, indulge in infosec and run a <a href='https://academai.ru'>project</a>.  
 
-- :seedling: SberStudent 2023 accelerator finalist, Top-20 Kaspersky's cyberimmunity development hackathon, MIPT Gigachat Challenge and other events.
+- :seedling: SberStudent 2023 accelerator finalist, Kaspersky's cyberimmunity development hackathon, Phystech Gigachat Challenge, Best EdTech project in Startech.Base & MIPT contest and other events.
 
 - :zap: open to new connections.
 
