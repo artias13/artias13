@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 
-- :telescope: 2024 cs grad, interested in Information Security and DevOps, also run a <a href='https://academai.ru'>project</a>.  
+- :telescope: 2024 cs grad, interested in GenAI apps, Information Security and DevOps, also run a <a href='https://academai.ru'>project</a>.  
 
 - :seedling: SberStudent 2023 accelerator finalist, Kaspersky's cyberimmunity development hackathon, Phystech Gigachat Challenge, Best EdTech project in Startech.Base & MIPT contest and other events.
 
